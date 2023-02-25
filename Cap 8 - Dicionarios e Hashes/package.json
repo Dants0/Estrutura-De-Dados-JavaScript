@@ -1,0 +1,13 @@
+{
+  "name": "cap-8---dicionarios-e-hashes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Dictionary.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
