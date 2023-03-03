@@ -4,6 +4,14 @@ export const Compare = {
     EQUALS: 0
   };
   
+export const BalanceFactor = {
+  UNBALANCED_RIGHT: 1,
+  SLIGHTLY_UNBALANCED_RIGHT: 2,
+  BALANCED: 3,
+  SLIGHTLY_UNBALANCED_LEFT: 4,
+  UNBALANCED_LEFT: 5,
+}
+
   export const DOES_NOT_EXIST = -1;
   
   export function lesserEquals(a, b, compareFn) {

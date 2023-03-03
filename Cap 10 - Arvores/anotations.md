@@ -33,4 +33,9 @@ Fator balanceamento - Sempre que um nó for inserido ou removido da árvore, dev
 A diferença entre os percursos em-ordem e pre-ordem é que o percurso pré-ordem visita o nó raiz antes. **callback(node.key)**
 
 
+---------------------------------------------------------------------------------------------------------------------------------------
 
+LL (Left-Left) -> É uma rotação simples à direita.
+RR (Right - Right) -> É uma rotação simples à esquerda.
+LR (Left - Right) -> É uma rotação dupla à direita (rotação à esquerda e depois à direita).
+RL (Right - Left) -> É uma rotação dupla à esquerda (rotação à direita e depois à esquerda).
